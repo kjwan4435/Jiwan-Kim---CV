@@ -1,7 +1,7 @@
 # Jiwan Kim's CV
 
-#### Human Computer Interaction / Interaction lab / UNIST
+#### Human Computer Interaction / WIT Lab / KAIST
 
-#### Portfolio: http://wanzi.info / GitHub: https://github.com/kjwan4435
+#### Website: http://jiwan.kim 
 
-#### Phone: 010-5800-6665 / E-mail: kjwan4435@gmail.com
+#### E-mail: kjwan4435[at]gmail.com
